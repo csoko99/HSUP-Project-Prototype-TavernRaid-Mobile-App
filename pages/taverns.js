@@ -1,0 +1,6 @@
+export default Taverns = [
+    {name:'Collegno', altname:'Pizzeria and Ristorant', owner:'Mario', pics: require('../tavern_pics/colegno.jpg'), latitude: 48.318473296401784, longitude:21.567181264319817, website:'', facebook:'http://m.facebook.com/collegnoetterem', addres:'Sárospatak, Szent Erzsébet u. 8, 3950', phone:'(06 47)314494', email:''},
+    {name:'Grill gödör', altname:'Étterem', owner:'Zoli', pics: require('../tavern_pics/grillgodor.jpg'), latitude: 48.31742912663448, longitude:21.56597775275854, website:'', facebook:'', addres:'Sárospatak, Rákóczi út 63, 3950', phone:'06 20 5644094', email:''},
+    {name:'Kávéház', altname:'BasNewtian Caffe', owner:'Tokaj-Hegyallja Egyetem', pics: require('../tavern_pics/kavehaz.jpg'), latitude: 48.322262862389145, longitude:21.56669231563492, website:'', facebook:'', addres:'Sárospatak, Eötvös út 6, 3950', phone:'06 20 4772007', email:''},
+    {name:'Koci', altname:'Kocsma', owner:'Valaki kft', pics: require('../tavern_pics/koci.jpg'), latitude: 48.32389031217708, longitude:  21.568434810430702, website:'', facebook:'', addres:'Sárospatak, Táncsics Mihály u. 13, 3950', phone:'', email:''}
+]
