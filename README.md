@@ -1,6 +1,7 @@
 **TavernRaid – Mobile App (HSUP Project)**
 
 This repository contains the frontend prototype of TavernRaid, a mobile application developed as part of the Hungarian Startup University Program (HSUP). The app was built by our student team, and I was responsible for implementing the frontend using React Native.
+
 ⚠️ Note: This version is a standalone frontend mock. The fully integrated version connected to the backend was unfortunately lost. To simulate application behavior, this version uses mock objects to represent data and interactions.
 
 📽️ Demo
