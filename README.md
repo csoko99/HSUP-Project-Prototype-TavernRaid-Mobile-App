@@ -22,7 +22,8 @@ You can watch a video of the original completed application here:▶️ [TavernR
 
 🚀 Getting Started
 - To run the app locally:
--   Clone the repository: git clone https://github.com/csoko99/TavernRaid_mobile.git
+-   Clone the repository:
+-     git clone https://github.com/csoko99/TavernRaid_mobile.git
 -     cd TavernRaid_mobile
 -   Install dependencies:
 -     npm install
