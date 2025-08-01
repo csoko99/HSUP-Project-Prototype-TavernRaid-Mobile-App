@@ -21,24 +21,15 @@ You can watch a video of the original completed application here:▶️ [TavernR
 
 
 🚀 Getting Started
-
-To run the app locally:
-
-Clone the repository:
-
-git clone https://github.com/csoko99/TavernRaid_mobile.git
-cd TavernRaid_mobile
-
-Install dependencies:
-
-npm install
-
-Run the app:
-
-npx expo start
+- To run the app locally:
+-   Clone the repository: git clone https://github.com/csoko99/TavernRaid_mobile.git
+-     cd TavernRaid_mobile
+-   Install dependencies:
+-     npm install
+-   Run the app:
+-     npx expo start
 
 📱 You will need the Expo Go app on your phone to preview the app.
 
 📄 Disclaimer
-
 This repository is a prototype version intended only for demonstration and educational purposes as part of the HSUP program. The real backend integration is missing in this build.
